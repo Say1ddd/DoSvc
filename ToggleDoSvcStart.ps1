@@ -14,4 +14,4 @@ if ($currentValue -eq 4) {
 
 Set-ItemProperty -Path $registryPath -Name $valueName -Value $newValue
 
-Write-Host "Current registry value: $newValue."
+Write-Host "Current registry value: $newValue. Please restart for changes to take effect."
