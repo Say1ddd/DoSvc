@@ -1,5 +1,7 @@
 # Prerequisites
 
+Note: Requires restarting the system for the changes to take effect!
+
 ## Allow Script Execution
 
 ```shell
